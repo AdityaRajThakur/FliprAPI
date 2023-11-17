@@ -6,5 +6,5 @@ The API is hosted on pythonanywhere.com.
 
 - Postman Public Docs URL: [https://documenter.getpostman.com/view/31219729/2s9YXpUy8R](https://documenter.getpostman.com/view/31219729/2s9YXpUy8R)
 
-To view all APIs, visit: [api/urls.py]([https://github.com/AdityaRajThakur/FliprAPI/blob/main/api/urls.py])
-To view all API logic, go to: [FliprAPI/views.py]([https://github.com/AdityaRajThakur/FliprAPI/blob/main/FliprAPI/views.py])
+To view all APIs, visit - [api/urls.py](https://github.com/AdityaRajThakur/FliprAPI/blob/main/api/urls.py)
+To view all API logic, go to - [FliprAPI/views.py](https://github.com/AdityaRajThakur/FliprAPI/blob/main/FliprAPI/views.py)
